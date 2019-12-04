@@ -1,3 +1,4 @@
+# it's temperory fix issue https://github.com/tolu360/react-native-google-places/issues/258, that's conflict happend when using react-native-maps and react-native-google-places
 # react-native-google-places
 iOS/Android Google Places Widgets (Autocomplete Modal) and API Services for React Native Apps
 
